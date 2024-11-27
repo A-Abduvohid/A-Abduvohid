@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Back-end developer from Uzbekistan</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abduvohid11072002&label=Profile%20views&color=0e75b6&style=flat" alt="Abduvohid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=A-Abduvohid&label=Profile%20views&color=0e75b6&style=flat" alt="Abduvohid" /> </p>
 
 - 🌱 I am an developer **JavaScript (ES6+),  TypeScript,  NodeJS,  ExpressJS,   Express Handlebars,  NestJS,  MongoDB,  PostgreSQL,  Sequelize,  API /Rest-API,  Git/Github,  HTML, CSS**
 
@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/abduvohid-abdurahimov-2618732b0/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuldoshevuz" height="30" width="40" />
   </a>
-  <a href="https://t.me/a_abduvoh1d" target="blank">
+  <a href="https://t.me/Abduvohid_Abdurahimov" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="yuldoshev__uz" height="30" width="40" />
   </a>
 </p>
@@ -49,7 +49,7 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abduvohid11072002&show_icons=true&locale=en" alt="Abduvohid" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=A-Abduvohid&show_icons=true&locale=en" alt="Abduvohid" /></p>
 
 <!--
 **Abduvohid11072002/Abduvohid11072002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
